@@ -1,1 +1,2 @@
 This is a git test file to work with
+This is line 2 of the same file
